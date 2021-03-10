@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple_project</string>
+    <string name="login">LOGIN</string>
+    <string name="txEmail">Email</string>
+    <string name="txpass">Passwords</string>
+    <string name="bnsingin">Sing-in</string>
+</resources>
